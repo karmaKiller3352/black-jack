@@ -1,4 +1,3 @@
-import { useState } from "react";
 import styled, { css, keyframes } from "styled-components";
 
 function animateCard(left, top) {
