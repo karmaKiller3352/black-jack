@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/black-jack/static/js/main.db2c2f89.chunk.js",
+    "main.js.map": "/black-jack/static/js/main.db2c2f89.chunk.js.map",
+    "runtime-main.js": "/black-jack/static/js/runtime-main.d4e41e90.js",
+    "runtime-main.js.map": "/black-jack/static/js/runtime-main.d4e41e90.js.map",
+    "static/js/2.6a4e2b25.chunk.js": "/black-jack/static/js/2.6a4e2b25.chunk.js",
+    "static/js/2.6a4e2b25.chunk.js.map": "/black-jack/static/js/2.6a4e2b25.chunk.js.map",
+    "index.html": "/black-jack/index.html",
+    "static/js/2.6a4e2b25.chunk.js.LICENSE.txt": "/black-jack/static/js/2.6a4e2b25.chunk.js.LICENSE.txt",
+    "static/media/cards.cfd0c239.png": "/black-jack/static/media/cards.cfd0c239.png",
+    "static/media/cover.8c65e867.png": "/black-jack/static/media/cover.8c65e867.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4e41e90.js",
+    "static/js/2.6a4e2b25.chunk.js",
+    "static/js/main.db2c2f89.chunk.js"
+  ]
+}
