@@ -20,6 +20,8 @@ import {
   Points
 } from "./ui";
 import { generateDeck, getNextCard, isEmpty, updateScore, useStartingDistribution } from "./helpers";
+import coverCard from './covers/cover.png';
+
 
 const buttonList = {
   gamePlay: {
@@ -267,7 +269,7 @@ function App() {
             <Label bottom>Player Hand</Label>
 
             <CardsWrapper>
-              <CardCover src="images/cover.png" />
+              <CardCover src={coverCard} />
             </CardsWrapper>
           </GameField>
 

@@ -16,4 +16,4 @@ yarn build
 ```
 
 # Demonstration link
-http://karmaKiller3352.github.io/black-jack
+http://karmaKiller3352.github.io/black-jack/
